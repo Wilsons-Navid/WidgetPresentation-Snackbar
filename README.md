@@ -14,7 +14,7 @@ SnackBar Widget: A snackbar widget is a widget in flutter that allows ujs to dis
 5- Click on the cards in the  home screen of the mobile app  to see the various snackbar cases.
 
 # Key attributes:
-snackbar has various attributes that allows the developer to design the application to their likings  
+SnackBar has various attributes that allows the developer to design the application to their likings  
 
 
 1- content: This is undoubtedly the most essential attribute of the snackbar widget. This is where text widget which which contains the information to be displayed is defined.  
