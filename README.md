@@ -5,7 +5,7 @@ SnackBar Widget: A snackbar widget is a widget in flutter that allows ujs to dis
 
 1- Clone the repository: git clone https://github.com/Wilsons-Navid/WidgetPresentation-Snackbar/  
 
-2- Change directory to the snackbar: cd snackbar  
+2- Change directory to  snackbar(flutter-project): cd snackbar  
 
 3- Open in VScode  
 
