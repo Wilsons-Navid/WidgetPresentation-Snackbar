@@ -1,4 +1,4 @@
-# SnackBar
+# SnackBar Widget
 
 # Description:  
 A snackbar widget is a widget in flutter that allows developers to display contents at the bottom of the screen for a short amount of time. It is mainly  used to provide feedback that do not require use interaction.
